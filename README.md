@@ -1,6 +1,8 @@
 # Trend-rider BTC bot
 
 [![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/zekemonkeyking/makefun-btc-bot/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/zekemonkeyking/makefun-btc-bot/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
 
 A trend-following bot for make.fun's "Race a BTC trading bot live for 24 hours" bounty, $50 in USDC. It trades Coinbase Wrapped BTC (CBBTC) against USDC, minute by minute, in a replay of on-chain prices. Paper money only — nothing is traded for real.
 
